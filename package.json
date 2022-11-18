@@ -1,0 +1,9 @@
+{
+	"private": true,
+	"dependencies": {
+		"i18next": "^22.0.6"
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.9"
+	}
+}
